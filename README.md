@@ -1,4 +1,9 @@
-### Hi there 👋
+# Sobre mim
+olá, eu me chamo João Lucas Kruk
+Atualmente estudo em CECMPS,
+Atualmente estou apreendendo progamação no SCRATCH e Javascipt
+Instagram:@joaolucaskruk
+
 
 <!--
 **blueheadset/blueheadset** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
